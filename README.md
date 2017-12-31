@@ -5,5 +5,7 @@ Algorithm Inspiration: http://www.enggjournals.com/ijcse/doc/IJCSE12-04-05-266.p
 
 # Required
 Qt 5.6 or higher
+
 Android SDK
+
 Android NDK
