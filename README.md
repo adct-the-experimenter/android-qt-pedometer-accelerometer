@@ -9,8 +9,11 @@ Algorithm Inspiration: http://www.enggjournals.com/ijcse/doc/IJCSE12-04-05-266.p
 -Required Software and Libraries
 -
 -Qt 5.6 or higher
+
 -Qt Creator
+
 -Android SDK
+
 -Android NDK
 
 -How to install
