@@ -18,4 +18,6 @@ Algorithm Inspiration: http://www.enggjournals.com/ijcse/doc/IJCSE12-04-05-266.p
 
 -How to install
 -
--TODO
+-For instructions on setting up environment for Qt and android on Linux. http://www.filedropper.com/qt-android-setup-linux
+
+-After the Qt-Android-Linux environment is set up, just git clone this repository and open project file in Qt creator. Then, follow the instructions in link to upload porgram to phone.
